@@ -1,2 +1,2 @@
 # GIT
-Under
+This is to understand about GIT
